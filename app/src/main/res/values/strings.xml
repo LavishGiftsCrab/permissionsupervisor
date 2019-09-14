@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">权限监控</string>
+    <string name="baek">100%</string>
+    <string name="results">查看结果</string>
+    <string name="num">%1$d %%</string>
+    <string name="botton2">查看应用的权限"</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A8CCD6"
+    android:scrollbars = "vertical">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextVie " />
+
+    <!--<info.hoang8f.widget.FButton-->
+        <!--android:id="@+id/button4"-->
+        <!--android:layout_width="270dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:text="清空历史"-->
+        <!--fbutton:buttonColor="@color/colorPrimary"-->
+        <!--fbutton:cornerRadius="5dp"-->
+        <!--fbutton:shadowColor="@color/colorPrimaryDark"-->
+        <!--fbutton:shadowEnabled="true"-->
+        <!--fbutton:shadowHeight="5dp" />-->
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="330dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="清空历史" />
+</LinearLayout>
